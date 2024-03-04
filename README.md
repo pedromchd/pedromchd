@@ -38,12 +38,12 @@ Me formei técnico em Informática para Internet pelo IFRS e atualmente estou cu
 [![TikTok](https://img.shields.io/badge/tiktok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@pedromchd)
 [![Stack Overflow](https://img.shields.io/badge/stack%20overflow-F58025?style=for-the-badge&logo=stack%20overflow&logoColor=white)](https://stackoverflow.com/users/19809517/pedromchd)
 [![BeReal.](https://img.shields.io/badge/bereal-000000?style=for-the-badge&logo=bereal&logoColor=white)](https://bere.al/pedromchd)
-[![Sololearn](https://img.shields.io/badge/sololearn-149EF2?style=for-the-badge&logo=sololearn&logoColor=white)](https://www.sololearn.com/pt/profile/9035806)
 [![Reddit](https://img.shields.io/badge/reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/pedromchd/)
+[![Sololearn](https://img.shields.io/badge/sololearn-149EF2?style=for-the-badge&logo=sololearn&logoColor=white)](https://www.sololearn.com/pt/profile/9035806)
 [![Facebook](https://img.shields.io/badge/facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/pedromchd)
 [![Replit](https://img.shields.io/badge/replit-F26207?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@pedromchd)
-[![Telegram](https://img.shields.io/badge/telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/pedromchd)
 [![Tumblr](https://img.shields.io/badge/tumblr-36465D?style=for-the-badge&logo=tumblr&logoColor=white)](https://www.tumblr.com/blog/pedromchd)
+[![Telegram](https://img.shields.io/badge/telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/pedromchd)
 
 ### Estatísticas 🤖
 
