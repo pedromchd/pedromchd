@@ -13,7 +13,7 @@ Me formei técnico em Informática para Internet pelo IFRS e atualmente estou cu
 
 ### Ferramentas 🛠️
 
-[![Tools](https://skillicons.dev/icons?i=git,github,vscode,mysql,sqlite)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=git,github,vscode,mysql,sqlite,codepen)](https://skillicons.dev)
 
 ### Minhas redes 📱
 
