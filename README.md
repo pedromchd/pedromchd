@@ -25,6 +25,7 @@ Me formei técnico em Informática para Internet pelo IFRS e atualmente estou cu
 [![Last.fm](https://img.shields.io/badge/last.fm-D51007?style=for-the-badge&logo=lastdotfm&logoColor=white)](https://www.last.fm/user/pedromchd)
 [![Duolingo](https://img.shields.io/badge/duolingo-58CC02?style=for-the-badge&logo=duolingo&logoColor=white)](https://www.duolingo.com/profile/pedromchd)
 [![Goodreads](https://img.shields.io/badge/goodreads-372213?style=for-the-badge&logo=goodreads&logoColor=white)](https://www.goodreads.com/user/show/162433675-pedro-machado)
+[![Letterboxd](https://img.shields.io/badge/letterboxd-202830?style=for-the-badge&logo=letterboxd&logoColor=white)](https://letterboxd.com/pedromchd/)
 [![Stack Overflow](https://img.shields.io/badge/stack%20overflow-F58025?style=for-the-badge&logo=stack%20overflow&logoColor=white)](https://stackoverflow.com/users/19809517/pedromchd)
 
 ### Estatísticas 🤖
