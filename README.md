@@ -10,7 +10,7 @@ Sou técnico em Informática para Internet pelo IFRS, e atualmente estudante em 
 
 [![Tools](https://skillicons.dev/icons?i=git,github,vscode)](https://skillicons.dev)
 
-### Minhas redes 🌐
+### Minhas Redes 🌐
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedrogmachado/)
 [![Instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedrogmchd/)
