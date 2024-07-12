@@ -21,4 +21,4 @@ Sou técnico em Informática para Internet pelo IFRS, e atualmente estudante em 
 ### Estatísticas 📊
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=pedromchd&theme=transparent&show_icons=true&rank_icon=github&number_format=long&custom_title=Github%20Stats&line_height=24&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pedromchd&theme=transparent&layout=compact&langs_count=8&custom_title=Top%20Languages&size_weight=0.5&count_weight=0.5&hide=scss,blade,handlebars,hack&exclude_repo=bicyclus-serious-game,ptd-back-end)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pedromchd&theme=transparent&layout=compact&langs_count=8&custom_title=Top%20Languages&size_weight=0.5&count_weight=0.5&hide=scss,hack,makefile)](https://github.com/anuraghazra/github-readme-stats)
