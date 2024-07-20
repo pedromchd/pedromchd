@@ -4,11 +4,11 @@ Sou técnico em Informática para Internet pelo IFRS, e atualmente estudante em 
 
 ### Linguagens e Ferramentas 🛠️
 
-[![Languages](https://skillicons.dev/icons?i=html,css,js,ts,py,php,sqlite,c)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=html,css,js,ts,py,php,sqlite)](https://skillicons.dev)
 
 [![Frameworks](https://skillicons.dev/icons?i=react,tailwind,flask,jquery,nodejs,laravel)](https://skillicons.dev)
 
-[![Tools](https://skillicons.dev/icons?i=git,github,vscode)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=git,github,vscode,bash,linux)](https://skillicons.dev)
 
 ### Minhas Redes 🌐
 
