@@ -17,7 +17,6 @@ Sou técnico em Informática para Internet pelo IFRS, e atualmente estudante em 
 [![Email](https://img.shields.io/badge/email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedro.garcia.machado@outlook.com)
 [![Stack Overflow](https://img.shields.io/badge/stack%20overflow-F58025?style=for-the-badge&logo=stack%20overflow&logoColor=white)](https://stackoverflow.com/users/19809517/pedromchd)
 [![LeetCode](https://img.shields.io/badge/leetcode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/pedromchd/)
-[![CodePen](https://img.shields.io/badge/codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/pedromchd)
 
 ### Estatísticas 📊
 
