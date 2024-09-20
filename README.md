@@ -4,7 +4,7 @@ Sou técnico em Informática para Internet pelo IFRS, e atualmente estudante em 
 
 ### Linguagens e Ferramentas 🛠️
 
-[![Languages](https://skillicons.dev/icons?i=html,css,ts,py,php)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=html,css,js,py,php)](https://skillicons.dev)
 
 [![Frameworks](https://skillicons.dev/icons?i=react,tailwind,flask,laravel)](https://skillicons.dev)
 
