@@ -1,24 +1,26 @@
-## Olá mundo! Eu sou o Pedro 😎
+## Hello, World! 👋
 
-Sou técnico em Informática para Internet pelo IFRS, e atualmente estudante em Sistemas de Informação na FURG. Desenvolvo aplicações web e mobile, tanto no frontend como no backend. Eu almejo um dia criar minha própria linguagem de programação e, quem sabe, meu próprio sistema operacional.
+I'm a Web Development Technician from IFRS and currently pursuing a Bachelor's degree in Information Systems at FURG.
 
-### Linguagens e Ferramentas 🛠️
+I develop frontend applications for web and mobile, enjoy exploring backend, and one day aspire to create my own programming language.
 
-[![Languages](https://skillicons.dev/icons?i=html,css,js,py,php)](https://skillicons.dev)
 
-[![Frameworks](https://skillicons.dev/icons?i=react,tailwind,flask,laravel)](https://skillicons.dev)
 
-[![Tools](https://skillicons.dev/icons?i=git,vscode,linux)](https://skillicons.dev)
+### Languages and Tools 🛠️
 
-### Minhas Redes 🌐
+[![Languages](https://skillicons.dev/icons?i=html,css,ts,py,php)](https://skillicons.dev)
+
+[![Frameworks](https://skillicons.dev/icons?i=tailwind,react,flask,bootstrap)](https://skillicons.dev)
+
+[![Tools](https://skillicons.dev/icons?i=selenium,git,vscode)](https://skillicons.dev)
+
+### My Socials 🌐
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedrogmachado/)
 [![Instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedrogmchd/)
-[![Email](https://img.shields.io/badge/email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedro.garcia.machado@outlook.com)
-[![Stack Overflow](https://img.shields.io/badge/stack%20overflow-F58025?style=for-the-badge&logo=stack%20overflow&logoColor=white)](https://stackoverflow.com/users/19809517/pedromchd)
-[![LeetCode](https://img.shields.io/badge/leetcode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/pedromchd/)
+[![Gmail](https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedro.garcia.machado@outlook.com)
 
-### Estatísticas 📊
+### Statistics 📊
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=pedromchd&theme=transparent&show_icons=true&rank_icon=github&number_format=long&custom_title=Github%20Stats&line_height=24&include_all_commits=false)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pedromchd&theme=transparent&layout=compact&langs_count=8&custom_title=Top%20Languages&size_weight=0.5&count_weight=0.5&hide=scss,hack,makefile)](https://github.com/anuraghazra/github-readme-stats)
