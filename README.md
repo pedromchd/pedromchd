@@ -1,4 +1,4 @@
-## Hello, World! 👋
+## Hello world! 👋
 
 I'm a Web Development Technician from IFRS and currently pursuing a Bachelor's degree in Information Systems at FURG.
 
