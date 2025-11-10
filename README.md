@@ -17,7 +17,7 @@
 ### Github Stats 📊
 
 <a href="https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#github-stats-card">
-  <img height=200 align="center" src="https://github-readme-stats-nine-kappa-43.vercel.app/api?username=pedromchd&theme=transparent&show_icons=true&rank_icon=github&number_format=long&custom_title=Github%20Stats&line_height=24&include_all_commits=false" />
+  <img height=200 align="center" src="https://github-readme-stats-nine-kappa-43.vercel.app/api?username=pedromchd&theme=transparent&show_icons=true&hide=stars&show=reviews&rank_icon=github&number_format=long&custom_title=Github%20Stats&line_height=24&include_all_commits=false" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#top-languages-card">
   <img height=200 align="center" src="https://github-readme-stats-nine-kappa-43.vercel.app/api/top-langs/?username=pedromchd&theme=transparent&layout=compact&langs_count=8&custom_title=Top%20Languages&size_weight=0.5&count_weight=0.5&hide=scss,hack,makefile" />
